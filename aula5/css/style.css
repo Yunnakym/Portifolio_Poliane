@@ -1,0 +1,54 @@
+/*Estilo para o cabeçalho*/
+header{
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+/*Estilo para o corpo da página*/
+body{
+  font-family: Arial,sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+/*Estilo para o rodapé*/
+footer{
+  background-color: #333;
+  text-align: center;
+  color: white;
+  padding: 1em;
+}
+/*Estilo para o seções*/
+section{
+  background-color: white;
+  padding: 2em;
+  margin: 1em;
+  border-radius: 1em;
+  box-shadow: 0px 2px 4px rgb(161, 155, 155);
+}
+/*Estilo para área de navegação*/
+nav ul{
+  list-style-type: none;
+  background-color: #464242;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+nav ul li{
+  flex: 1;
+  text-align: center;
+}
+nav ul li a{
+  text-decoration: none;
+  padding: 1em;
+  color: white;
+  display: block;
+}
+nav ul li a:hover{
+  background-color: rgb(28, 39, 39);
+
+}
+div{
+  text-align: center;
+}

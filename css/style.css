@@ -27,6 +27,7 @@ section{
   border-radius: 1em;
   box-shadow: 0px 2px 4px rgb(161, 155, 155);
 }
+
 /*Estilo para área de navegação*/
 nav ul{
   list-style-type: none;
@@ -51,4 +52,13 @@ nav ul li a:hover{
 }
 div{
   text-align: center;
+}
+
+.imagem{
+  display: block;
+ /* margin: 10px;  Centraliza a imagem horizontalmente */
+  height: 100px;
+  width: 1050px;
+  border-radius: 30px;
+  
 }
